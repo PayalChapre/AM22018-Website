@@ -163,4 +163,113 @@ Interior Designing Website
     </center>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <style>
+        body{
+            background-image: linear-gradient(to bottom, bisque,rgb(220, 129, 129));
+        }
+        h1{
+            color:rgb(56, 1, 12);
+            font-size: 4vi;
+            font-family: Geneva;
+            border: 3px;
+            background-image: radial-gradient(antiquewhite,crimson);
+        }
+        h2{
+            color: blue;
+            font-family: cursive;
+        }
+        h3{
+            font-style: cambria;
+            color: darkred;
+            font-size: larger;
+        }
+    </style>
+</head>
+<body>
+    <CENTER>
+    <h1>OUR ACHIEVING PROJECTS ARE HERE!!!</h1>
+    <img src="https://cdn.archilovers.com/projects/a0b8ec0f-f390-4bc9-88d4-d2cb34cfa68d.jpg" align="center" height="600" length="600">
+    <br>
+    <h2>Master Bedroom 3D Rendering for a Luxurious Designed Project</h2> 
+    <hr>
+    <img src="https://i.pinimg.com/originals/d1/8e/11/d18e1105b68969928065e3aea818d8bb.jpg" align="center" height="600" length="600" >
+    <h2>Small Home Theatre Room</h2>
+    <hr>
+    <img src="https://www.bestinteriordesigners.eu/wp-content/uploads/2015/10/50-best-interior-design-projects-by-kelly-wearstler-1.jpg" align="center" height="600" length="600" >
+    <h2>Living Room in less space </h2>
+    <hr>
+    <img src="https://images.adsttc.com/media/images/60b5/9a36/f91c/8199/fb00/009c/newsletter/68636-225161-jiangshan-fishing-village-5(1).jpg?1622514221" align="center" height="600" length="600" >
+    <h2>The Holiday Day  </h2>
+    <hr>
+    <h3>For More, Visit Our Menu :)</h3>
+
+
+    </CENTER>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <style>
+        h1{
+            color:rgb(3, 12, 31);
+            font-size: 4vi;
+            font-family: Gill Sans;
+        }
+        h2{
+             color: black;
+             font-size: 2vi;
+             font-family: Cambria;
+        }
+        body{
+            background-image: linear-gradient(to bottom, rgb(28, 255, 255),bisque);
+        }
+
+    </style>
+</head>
+<body>
+    <center>
+       <h1>Welcome to our Ferroart Interiors!</h1> 
+    </center>
+<h2>
+At Ferroart Interiors, we are passionate about creating inspiring and functional spaces that reflect your unique style and personality. With years of experience in the industry, our talented team of interior designers is dedicated to transforming your vision into reality.
+
+Our Approach:
+We believe that good design goes beyond aesthetics. It should enhance your lifestyle and create a harmonious environment that suits your needs. That's why we take a personalized approach to every project, focusing on understanding your goals, preferences, and budget.
+<br>
+<b>Services We Offer:</b>
+
+<li>Consultation and Concept Development: We start by listening to your ideas and requirements, conducting a thorough assessment of your space, and developing a design concept that aligns with your vision.</li>
+
+<li>Space Planning: Our expert designers will optimize the layout of your space, considering functionality, traffic flow, and the utilization of available square footage. We ensure that each area is utilized to its maximum potential.</li>
+
+<li> Material and Color Selection: We guide you through a vast selection of materials, finishes, colors, and textures, helping you make informed decisions that complement your style and create the desired atmosphere.</li>
+
+<li>> Furniture and Accessories: From selecting the perfect furniture pieces to curating accessories and artworks, we pay attention to every detail to bring your space to life. We consider factors such as comfort, durability, and visual appeal to create a cohesive look.</li>
+
+<li> Lighting Design: Lighting plays a crucial role in enhancing the ambiance and functionality of a space. Our designers carefully plan and select lighting fixtures to create the desired mood, accentuate architectural features, and provide adequate task lighting.</li>
+
+<li> Project Management: We take the stress out of the design process by managing all aspects of your project, from procurement to installation. Our team collaborates with trusted suppliers, contractors, and craftsmen to ensure smooth execution and timely completion.</li>
+</LEFT>
+<b>Client Satisfaction:</b>
+Your satisfaction is our top priority. We strive to exceed your expectations by delivering exceptional design solutions and maintaining clear communication throughout the entire process. We believe in building long-term relationships with our clients based on trust, reliability, and outstanding service.
+<br>
+Take the first step towards transforming your space by contacting us today. We look forward to working with you and creating a stunning interior that truly reflects your style and enhances your everyday living.
+</h2>
+    
+    
+</body>
+</html>
 
